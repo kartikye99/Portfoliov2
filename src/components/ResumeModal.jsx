@@ -109,7 +109,7 @@ export default function ResumeModal({ isOpen, onClose }) {
             <div className="mb-3">
               <div className="flex items-baseline justify-between mb-1">
                 <h3 className="font-bold text-slate-900 text-sm">
-                  Roomify – AI-Powered 3D Room Design Web App <span className="font-normal text-indigo-600">| GitHub | Live</span>
+                  Roomify – AI-Powered 3D Room Design Web App <span className="font-normal text-indigo-600">| <a href="https://github.com/kartikye99" target="_blank" rel="noreferrer" className="hover:underline">GitHub</a> | <a href="https://roomify-ashen.vercel.app/" target="_blank" rel="noreferrer" className="hover:underline font-semibold text-cyan-600">Live</a></span>
                 </h3>
                 <span className="text-xs text-slate-500 font-medium">January 2026</span>
               </div>

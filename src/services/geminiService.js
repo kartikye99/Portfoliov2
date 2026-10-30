@@ -80,7 +80,7 @@ export function generateLocalFallback(query) {
   }
 
   if (q.includes('roomify') || q.includes('3d') || (q.includes('ai') && q.includes('project'))) {
-    return `**Roomify – AI-Powered 3D Room Design Web App (Jan 2026):**\n\n- **What it does:** Converts 2D architectural sketches into structured 3D spatial concepts automatically, drastically reducing manual 3D modeling time.\n- **Tech Stack:** React.js, JavaScript, AI Prompt Workflows, Serverless Workers, Key-Value Storage, Tailwind CSS.\n- **Scalability:** Validated by successfully processing over **100+ layout submissions** during intensive testing.`;
+    return `**Roomify – AI-Powered 3D Room Design Web App (Jan 2026):**\n\n- **What it does:** Converts 2D architectural sketches into structured 3D spatial concepts automatically, drastically reducing manual 3D modeling time.\n- **Tech Stack:** React.js, JavaScript, AI Prompt Workflows, Serverless Workers, Key-Value Storage, Tailwind CSS.\n- **Scalability:** Validated by successfully processing over **100+ layout submissions** during intensive testing.\n- **Live App:** You can experience it live here: [roomify-ashen.vercel.app](https://roomify-ashen.vercel.app/) 🚀`;
   }
 
   if (q.includes('chat') || q.includes('socket') || q.includes('real-time') || q.includes('websocket')) {

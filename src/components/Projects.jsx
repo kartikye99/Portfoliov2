@@ -195,7 +195,7 @@ export default function Projects() {
                     <span>View Repository</span>
                   </a>
                   <a
-                    href="https://github.com/kartikye99"
+                    href="https://roomify-ashen.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
                     onClick={() => sounds.playPop()}

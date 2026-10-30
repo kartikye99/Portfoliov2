@@ -37,7 +37,7 @@ export const portfolioData = {
       ],
       technologies: ["React.js", "JavaScript", "AI Integration", "Serverless Workers", "Key-Value Storage", "Tailwind CSS"],
       githubUrl: "https://github.com/kartikye99",
-      liveUrl: "https://github.com/kartikye99",
+      liveUrl: "https://roomify-ashen.vercel.app/",
       demoType: "3d-room"
     },
     {
