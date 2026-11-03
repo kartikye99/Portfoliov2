@@ -55,7 +55,7 @@ export const portfolioData = {
       ],
       technologies: ["React", "JavaScript", "Node.js", "Express.js", "MongoDB Atlas", "JWT", "Socket.io", "RESTful APIs"],
       githubUrl: "https://github.com/kartikye99",
-      liveUrl: "https://github.com/kartikye99",
+      liveUrl: "https://vibechat-golf.onrender.com/",
       demoType: "interactive-chat"
     },
     {

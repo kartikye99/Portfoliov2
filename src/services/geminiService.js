@@ -48,6 +48,7 @@ Your purpose is to represent Kartikye accurately, professionally, concisely, and
       - Low-latency multi-room messaging platform supporting instant message delivery and synchronized active sessions.
       - Tech Stack: React, JavaScript, Node.js, Express.js, MongoDB Atlas, JWT, WebSockets (Socket.io).
       - Features: Sub-20ms WebSocket communication via Socket.io, JWT authentication, modular RESTful APIs, stress-tested with 50+ concurrent simulated users with zero packet drops.
+      - Live App: https://vibechat-golf.onrender.com/
    C) Algorithmic Solutions Lab (LeetCode 400+):
       - C++ performance-optimized implementations across DP, graph algorithms, and data structures.
    D) Think Design Prototype UI/UX System (July 2025):
@@ -84,7 +85,7 @@ export function generateLocalFallback(query) {
   }
 
   if (q.includes('chat') || q.includes('socket') || q.includes('real-time') || q.includes('websocket')) {
-    return `**Full-Stack Real-Time Chat Platform (Feb 2026):**\n\n- **Architecture:** High-concurrency bidirectional messaging engine using **Socket.io** achieving **sub-20ms latency**.\n- **Security & Storage:** Secure JWT token authentication, modular Express.js REST APIs, and MongoDB Atlas persistence.\n- **Validation:** Tested and verified under **50+ concurrent simulated users** with zero dropped packets.`;
+    return `**Full-Stack Real-Time Chat Platform (Feb 2026):**\n\n- **Architecture:** High-concurrency bidirectional messaging engine using **Socket.io** achieving **sub-20ms latency**.\n- **Security & Storage:** Secure JWT token authentication, modular Express.js REST APIs, and MongoDB Atlas persistence.\n- **Validation:** Tested and verified under **50+ concurrent simulated users** with zero dropped packets.\n- **Live App:** Try the live deployment here: [vibechat-golf.onrender.com](https://vibechat-golf.onrender.com/) 🚀`;
   }
 
   if (q.includes('leetcode') || q.includes('dsa') || q.includes('hackerrank') || q.includes('problem') || q.includes('coding')) {

@@ -92,7 +92,7 @@ export default function ResumeModal({ isOpen, onClose }) {
             <div className="mb-4">
               <div className="flex items-baseline justify-between mb-1">
                 <h3 className="font-bold text-slate-900 text-sm">
-                  Full-Stack-Real-Time Chat Application <span className="font-normal text-indigo-600">| GitHub | Live</span>
+                  Full-Stack-Real-Time Chat Application <span className="font-normal text-indigo-600">| <a href="https://github.com/kartikye99" target="_blank" rel="noreferrer" className="hover:underline">GitHub</a> | <a href="https://vibechat-golf.onrender.com/" target="_blank" rel="noreferrer" className="hover:underline font-semibold text-cyan-600">Live</a></span>
                 </h3>
                 <span className="text-xs text-slate-500 font-medium">February 2026</span>
               </div>
